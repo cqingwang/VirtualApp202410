@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-sw720dp/styles.xml",
+                    "from": {
+                        "startLines": "21,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "672,1306",
+                        "endLines": "29,38",
+                        "endColumns": "12,12",
+                        "endOffsets": "1277,1638"
+                    },
+                    "to": {
+                        "startLines": "13,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "714,1324",
+                        "endLines": "21,28",
+                        "endColumns": "12,12",
+                        "endOffsets": "1319,1656"
+                    }
+                },
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-sw720dp/config.xml",
+                    "from": {
+                        "startLines": "1,9,2,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "16,318,62,224",
+                        "endColumns": "45,71,44,75",
+                        "endOffsets": "57,385,102,295"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,173,638",
+                        "endColumns": "45,71,44,75",
+                        "endOffsets": "96,168,213,709"
+                    }
+                },
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-sw720dp/dimens.xml",
+                    "from": {
+                        "startLines": "18,20,19,24,25,26,23",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "709,838,766,986,1041,1097,932",
+                        "endColumns": "56,67,71,54,55,57,53",
+                        "endOffsets": "761,901,833,1036,1092,1150,981"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "218,275,343,415,470,526,584",
+                        "endColumns": "56,67,71,54,55,57,53",
+                        "endOffsets": "270,338,410,465,521,579,633"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/chan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/51bd88f5e1c5f8c6e89b4fa85c15a23e/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "558,624,685,751",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "619,680,746,813"
+                    }
+                },
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-v24/config.xml",
+                    "from": {
+                        "startLines": "9,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "222,16",
+                        "endLines": "15,7",
+                        "endColumns": "19,19",
+                        "endOffsets": "521,216"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,359",
+                        "endLines": "8,15",
+                        "endColumns": "19,19",
+                        "endOffsets": "354,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

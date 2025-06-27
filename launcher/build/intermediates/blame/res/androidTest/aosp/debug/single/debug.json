@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/drawable_test_drawable_pin_item.xml.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/drawable/test_drawable_pin_item.xml"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/raw_package_install_state_change_task_data.txt.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/raw/package_install_state_change_task_data.txt"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/xml_appwidget_no_config.xml.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/xml/appwidget_no_config.xml"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/raw_db_schema_v10.json.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/raw/db_schema_v10.json"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/layout_test_layout_appwidget_red.xml.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/layout/test_layout_appwidget_red.xml"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/xml_appwidget_with_config.xml.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/xml/appwidget_with_config.xml"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/raw_cache_data_updated_task_data.txt.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/raw/cache_data_updated_task_data.txt"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/layout_test_layout_appwidget_view.xml.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/layout/test_layout_appwidget_view.xml"
+    },
+    {
+        "merged": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/res/merged/androidTest/aosp/debug/layout_test_layout_appwidget_blue.xml.flat",
+        "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/tests/res/layout/test_layout_appwidget_blue.xml"
+    }
+]

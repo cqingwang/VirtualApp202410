@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "501"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "170",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "616"
+                    }
+                },
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-v23/bools.xml",
+                    "from": {
+                        "startLines": "21,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "736,677",
+                        "endColumns": "56,57",
+                        "endOffsets": "788,730"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,57",
+                        "endOffsets": "107,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -2,6 +2,9 @@
 
 #### Supports Google Play publishing with A/B packages. The B-side code is downloaded from the cloud, completely resolving Google Play's code review issues.
 
+#### JDK17 + Gradle 7.3.3  distributionUrl=https\://services.gradle.org/distributions/gradle-7.3.3-bin.zip
+
+
 #### UPDATA
 **1. Supports Android 4.0 - 15.0**
 

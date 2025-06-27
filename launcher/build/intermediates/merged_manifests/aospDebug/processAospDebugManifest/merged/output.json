@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":30907,"versionName":"3.9","enabled":true,"outputFile":"launcher-aosp-debug.apk","fullName":"aospDebug","baseName":"aosp-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"amirz.rootless.nexuslauncher.debug","split":"","minSdkVersion":"21"}}]

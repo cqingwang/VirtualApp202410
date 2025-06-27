@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-en-rXA/values-en-rXA.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Linux/cqingwang/VirtualApp202410/launcher/res/values-en-rXA/plurals.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "214,55",
+                        "endLines": "9,5",
+                        "endColumns": "14,14",
+                        "endOffsets": "364,209"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,210",
+                        "endLines": "5,9",
+                        "endColumns": "14,14",
+                        "endOffsets": "205,364"
+                    }
+                }
+            ]
+        }
+    ]
+}

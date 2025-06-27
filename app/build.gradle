@@ -1,5 +1,6 @@
 apply plugin: 'com.android.application'
 
+
 Properties properties = new Properties()
 def localProp = file(project.rootProject.file('local.properties'))
 if (localProp.exists()) {

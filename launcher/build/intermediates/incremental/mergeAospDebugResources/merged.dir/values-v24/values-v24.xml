@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="theme_override_names" translatable="false">
+        <item>@string/theme_automatic</item>
+        <item>@string/theme_default</item>
+        <item>@string/theme_light</item>
+        <item>@string/theme_dark</item>
+        <item>@string/theme_transparent</item>
+    </string-array>
+    <string-array name="theme_override_values" translatable="false">
+        <item/>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>256</item>
+    </string-array>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+</resources>
